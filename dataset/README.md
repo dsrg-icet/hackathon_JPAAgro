@@ -9,14 +9,16 @@ O arquivo ```evalute.py``` obtém a métrica RMSE das predições enviadas. Seu 
 
 ```python3 evaluate.py true_values.txt predicted_values.txt```
 
-Ambos arquivos ```true_values.txt``` e ```predicted_values.txt``` contém 30 valores reais separados por vírgula, com arredondamento e duas casas decimais. O arquivo ```true_values.txt``` será disponibilizado publicamente após o envio das soluções.
+Ambos arquivos ```true_values.txt``` e ```predicted_values.txt``` devem conter 30 valores reais separados por vírgula, com arredondamento e duas casas decimais. O arquivo ```true_values.txt``` será disponibilizado publicamente após o envio das soluções.
 
 
 ## Atributos
 
-*product* = produto comercializado
-*negotiation_date* = data do faturamento do produto
-*sold_price* = preço de venda (valor a ser predito)
+**product** = produto comercializado (valor constante igual a "Polpa Cítrica")
+
+**negotiation_date** = data do faturamento do produto
+
+**sold_price** = preço de venda do produto (variável a ser predita)
 
 
 > Você pode usar dados externos que possam ser úteis para a predição, desde que sejam dados públicos. Use

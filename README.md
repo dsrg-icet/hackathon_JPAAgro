@@ -15,14 +15,14 @@ Para a resolução do problema serão disponibilizados dados de preços de venda
 
 ## Métrica de avaliação
 
-As soluções de predição de preços de venda apresentadas serão avaliadas em termos de RMSE (Root Mean Square Error) para cada um dos próximos 30 dias, a partir da última data do conjunto de dados disponibilizado.
+As soluções de predição de preços de venda apresentadas serão avaliadas em termos de RMSE (Root Mean Square Error) para cada um dos próximos 30 dias úteis, a partir da última data do conjunto de dados disponibilizado.
 
 ## Entrega das soluções
 
 O envio da solução deverá ser feito por equipe e via e-mail (dsrg.icet@ufla.br) dentro do prazo estipulado. Em hipótese alguma serão consideradas soluções enviadas fora do prazo.
 A solução deverá ser composta pelos seguintes arquivos, que serão enviados como anexo ao e-mail:
 - Código comentado (extensão .py ou .r, com procedimentos de instalação de bibliotecas ou pacotes, quando aplicável)
-- Descrição da arquitetura da solução (em pdf). Use o template LaTeX disponibilizado (https://www.workshopdsufla.com.br/). 
+- Descrição da arquitetura da solução (em pdf). Use o template LaTeX disponibilizado na pasta ```template_paper. 
 - Valores preditos (30 valores reais, com arredondamento em duas casas decimais, separados por ponto-e-vírgula, em um arquivo txt, referentes à predição de 30 dias à frente)
 
 ## Linguagens de programação
