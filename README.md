@@ -37,6 +37,9 @@ As equipes devem realizar a inscrição pelo formulário disponível em: https:/
 
 ## Cronograma
 
+> Para que sua equipe seja elegível para a premiação, você deve submeter a solução até as 23:59 do dia
+23/02/2021. Envios fora do prazo não serão ranqueados!
+
 | Data - Horário | Descrição |
 |----------------------------|----------------------------|
 | 08/02/2021 | Início do período de inscrições das equipes | 
