@@ -14,11 +14,11 @@ Ambos arquivos ```true_values.txt``` e ```predicted_values.txt``` contém 30 val
 
 ## Atributos
 
-*product* = produto comercializado
+**product** = produto comercializado (valor constante igual a "Polpa Cítrica")
 
-*negotiation_date* = data do faturamento do produto
+**negotiation_date** = data do faturamento do produto
 
-*sold_price* = preço de venda (valor a ser predito)
+**sold_price** = preço de venda do produto (variável a ser predita)
 
 
 > Você pode usar dados externos que possam ser úteis para a predição, desde que sejam dados públicos. Use
