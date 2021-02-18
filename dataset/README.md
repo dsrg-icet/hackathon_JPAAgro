@@ -15,7 +15,9 @@ Ambos arquivos ```true_values.txt``` e ```predicted_values.txt``` contém 30 val
 ## Atributos
 
 *product* = produto comercializado
+
 *negotiation_date* = data do faturamento do produto
+
 *sold_price* = preço de venda (valor a ser predito)
 
 
