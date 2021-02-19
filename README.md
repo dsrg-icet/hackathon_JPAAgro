@@ -15,7 +15,7 @@ Para a resolução do problema serão disponibilizados dados de preços de venda
 
 ## Métrica de avaliação
 
-As soluções de predição de preços de venda apresentadas serão avaliadas em termos de RMSE (Root Mean Square Error) para cada um dos próximos 30 dias úteis, a partir da última data do conjunto de dados disponibilizado.
+As soluções de predição de preços de venda apresentadas serão avaliadas em termos de RMSE (Root Mean Square Error) para cada um dos próximos 30 dias, a partir da última data do conjunto de dados disponibilizado.
 
 ## Entrega das soluções
 
