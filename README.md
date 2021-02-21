@@ -15,16 +15,22 @@ Para a resolução do problema serão disponibilizados dados de preços de venda
 
 ## Métrica de avaliação
 
-As soluções de predição de preços de venda apresentadas serão avaliadas em termos de RMSE (Root Mean Square Error) para cada um dos próximos 30 dias (mês de agosto de 2019), a partir da última data do conjunto de dados disponibilizado.
+As soluções de predição de preços de venda apresentadas serão avaliadas em termos de RMSE (_Root Mean Square Error_) para cada um dos próximos 30 dias (mês de agosto de 2019), a partir da última data do conjunto de dados disponibilizado.
 
 > A equipe vencedora será a que obter o menor valor RMSE.
+
+
+## Critério de desempate
+
+Em caso de empate, a equipe vencedora será escolhida de acordo com o ranking de avaliação, por pareceristas externos à UFLA (de outras universidades federais), do artigo que descreve a solução. A avaliação será feita por três pareceristas da área de Ciência de Dados em formato _double blind review_.
+
 
 ## Entrega das soluções
 
 O envio da solução deverá ser feito por equipe e via e-mail (dsrg.icet@ufla.br) dentro do prazo estipulado. Em hipótese alguma serão consideradas soluções enviadas fora do prazo.
 A solução deverá ser composta pelos seguintes arquivos, que serão enviados como anexo ao e-mail:
 - Código comentado (extensão .py ou .r, com procedimentos de instalação de bibliotecas ou pacotes, quando aplicável)
-- Descrição da arquitetura da solução (em pdf). Use o template LaTeX disponibilizado na pasta ```template_paper```. 
+- Artigo com descrição da arquitetura da solução (em pdf). Use o template LaTeX disponibilizado na pasta ```template_paper```. 
 - Valores preditos (30 valores reais, com arredondamento em duas casas decimais, separados por ponto-e-vírgula, em um arquivo txt, referentes à predição de 30 dias à frente)
 
 ## Linguagens de programação
@@ -46,7 +52,7 @@ As equipes devem realizar a inscrição pelo formulário disponível em: https:/
 |----------------------------|----------------------------|
 | 08/02/2021 | Início do período de inscrições das equipes | 
 | 19/02/2021 | Fim do período de inscrições das equipes | 
-| 22/02/2021 – 00h00 | Liberação do conjunto de treinamento no site do DSRG (https://www.workshopdsufla.com.br/) | 
+| 22/02/2021 – 00h00 | Liberação do conjunto de treinamento, no diretório ```dataset``` | 
 | 23/02/2021 - 23h59 | Término do prazo para envio da solução, para o e-mail dsrg.icet@ufla.br | 
-| A partir de 25/02/21 | Divulgação da equipe campeã |
+| A partir de 25/02/21 | Divulgação da equipe campeã, nesta página |
 
