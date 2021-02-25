@@ -1,6 +1,27 @@
 # Hackathon JPA Agro 2021
 
 > 22 e 23 de Fevereiro
+
+## Ranking das equipes
+
+| Ranking | Equipe         | RMSE             | Linguagem Utilizada |
+|---------|----------------|------------------|---------------------|
+| 1       | TOP Agro.ai    | 23,9076023860999 | R                   |
+| 2       | Stats Group    | 49,6979597911967 | R                   |
+| 3       | CB Tech        | 76,7089500789981 | Python              |
+| 4       | Victor Cabral  | 90,9293165250003 | Python              |
+| 5       | SufCy team     | 99,3707406448009 | R                   |
+| 6       | Pandara        | 101,80069453303  | Python              |
+| 7       | Sirius         | 102,529620309161 | Python              |
+| 8       | RhandOn        | 108,065679291534 | R                   |
+| 9       | Lobo Solitário | 110,444095477874 | Python              |
+| 10      | Lorem Impsum   | 124,517831535769 | Python              |
+
+Os componentes da **equipe vencedora** são
+* Nélio Lemos Freire Junior
+* Luis Otávio Santos
+* Henrique Geraldo Guimarães Silva
+* Evandro Nunes Miranda
  
 ## A empresa e o problema
  
